@@ -2,5 +2,5 @@ This is a project based on Dicoding Intermediate Machine Learning Final Task. Fi
 
 Dataset : 
 1. https://play.google.com/store/search?q=mobile+jkn&c=apps (Project 1)
-2. https://www.kaggle.com/datasets/samuelcortinhas/sports-balls-multiclass-image-classification/data (Project 1)
+2. https://www.kaggle.com/datasets/samuelcortinhas/sports-balls-multiclass-image-classification/data (Project 2)
 3. Ball image scrapping and generator (Project 2)
